@@ -1,1 +1,2 @@
-# chatar_patar
+# Talk Wise
+Cross platform application made using flutter. A complete chatting app. 
