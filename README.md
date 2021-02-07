@@ -1,4 +1,4 @@
-# chatar_patar
+# Talk Wise (Chatting app)
 
 A new Flutter project.
 
