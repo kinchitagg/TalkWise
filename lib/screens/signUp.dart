@@ -76,7 +76,7 @@ class _SignUpState extends State<SignUp> {
               elevation: 0.0,
               backgroundColor: Colors.transparent,
               title: Text(
-                "Chatar Patar",
+                "Talk Wise",
                 style: TextStyle(fontSize: 30),
               ),
             ),
